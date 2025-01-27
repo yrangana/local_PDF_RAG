@@ -1,2 +1,2 @@
-# local_PDF_RAG
+# local PDF RAG system
 Local PDF RAG using ollama
